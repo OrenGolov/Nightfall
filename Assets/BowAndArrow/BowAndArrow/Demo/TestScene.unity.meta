@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4bc2ef2f77558b34780e1567dee17e2a
+timeCreated: 1461949191
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 61904
+  packageName: Bow and Arrow - 2D
+  packageVersion: 1.0
+  assetPath: Assets/Scripts/BowAndArrow/Demo/TestScene.unity
+  uploadId: 115535

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7805f38cea201c64db011fd5bcc5ac51
+timeCreated: 1462063650
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 61904
+  packageName: Bow and Arrow - 2D
+  packageVersion: 1.0
+  assetPath: Assets/Scripts/BowAndArrow/Prefab/Bow.prefab
+  uploadId: 115535

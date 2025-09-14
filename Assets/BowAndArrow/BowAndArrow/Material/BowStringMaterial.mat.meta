@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 904df345336a6374a9afe2847fab9e8d
+timeCreated: 1462047397
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 61904
+  packageName: Bow and Arrow - 2D
+  packageVersion: 1.0
+  assetPath: Assets/Scripts/BowAndArrow/Material/BowStringMaterial.mat
+  uploadId: 115535
